@@ -51,6 +51,7 @@ The following image shows the web application's appearance and functionality:
 
 ## Link to the deployed application
 
+<a href="https://enigmawoman.github.io/03-JavaScript/">Deployed Password Generator</a>
 
 ## License
 
