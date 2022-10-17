@@ -47,7 +47,7 @@ I have been careful to use correct flow and syntax for the JavaScript, and the c
 ```
 The following image shows the web application's appearance and functionality:
 ```
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03_javaScript_screenshot.png)
+![The Password Generator application displays a red button to "Generate Password".](./assets/03_javaScript_screenshot.png)
 
 ## Link to the deployed application
 
